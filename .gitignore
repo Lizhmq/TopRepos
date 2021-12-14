@@ -1,0 +1,4 @@
+nohup*
+tmp*
+*.log
+*.ipynb_checkpoints*
