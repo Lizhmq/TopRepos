@@ -10,7 +10,7 @@ def write_txt(lst, file):
         for repo in lst:
             f.write(f"{repo}\n")
 
-value1 = 3000
+value1 = 2500
 value2 = 1500
 langs = ["c", "c-plus-plus", "c-sharp", "go", "java", "javascript", "php", "python", "ruby"]
 mp = {

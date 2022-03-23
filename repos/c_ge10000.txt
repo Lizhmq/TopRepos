@@ -1,0 +1,10 @@
+zephyrproject-rtos/zephyr
+RIOT-OS/RIOT
+systemd/systemd
+qmk/qmk_firmware
+cockpit-project/cockpit
+radareorg/radare2
+greenplum-db/gpdb
+ARMmbed/mbed-os
+microsoft/vcpkg
+openssl/openssl

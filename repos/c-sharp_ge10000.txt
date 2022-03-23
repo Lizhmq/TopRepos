@@ -1,0 +1,14 @@
+dotnet/roslyn
+dotnet/corefx
+dotnet/coreclr
+dotnet/docs
+Azure/azure-sdk-for-net
+dotnet/runtime
+mono/mono
+dotnet/AspNetCore.Docs
+ravendb/ravendb
+dotnet/installer
+dotnet/sdk
+dotnet/aspnetcore
+xamarin/xamarin-macios
+Azure/azure-powershell

@@ -2,7 +2,7 @@ import re, json
 import requests
 
 
-token = "gh_token"
+token = "d8581f57d7aa51c068ee3c01132cbc0f61b37aa9"
 headers = {"Authorization": f"token {token}"}
 not_found = ['400: Invalid request', '404: Not Found']
 
@@ -72,7 +72,6 @@ def findlicense(repo):
             if s:
                 return s
     return ""
-
 
 for lang in ["javascript", "python", "java", "php", "c-plus-plus", "ruby", "c-sharp", "go", "c"]:
     res = []

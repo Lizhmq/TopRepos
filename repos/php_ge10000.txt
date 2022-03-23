@@ -1,0 +1,14 @@
+symfony/symfony
+laravel/framework
+joomla/joomla-cms
+civicrm/civicrm-core
+owncloud/core
+Wikia/app
+nextcloud/server
+PrestaShop/PrestaShop
+Dolibarr/dolibarr
+Automattic/jetpack
+magento/magento2
+symfony/symfony-docs
+woocommerce/woocommerce
+kaltura/server
